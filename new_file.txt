@@ -1,0 +1,10 @@
+104
+{"code":200,
+"message":"\u4e0b\u5355\u6210\u529f",
+"data":{
+"appId":"wx1efd2dd14890d6b6",
+"timeStamp":"1517215371",
+"nonceStr":"5a6ede8b0ce52",
+"package":"prepay_id=wx201801291642510f49e14cbb0620228704",
+"signType":"MD5",
+"paySign":"AD20BE2348ECA3E8D7CD5A493898217C
